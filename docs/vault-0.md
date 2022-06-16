@@ -33,8 +33,8 @@ name: Agenda
 1. Hashi-who?
 1. Lecture
 1. Labs
-1. Q&A, Wrap Up
-1. Happy Hour
+1. Q&A
+1. Wrap Up
 
 ???
 The table of contents for the workshop
