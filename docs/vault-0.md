@@ -3,7 +3,7 @@ class: title, shelf, no-footer, fullbleed
 background-image: url(https://hashicorp.github.io/field-workshops-assets/assets/bkgs/HashiCorp-Title-bkg.jpeg)
 count: false
 
-# Zero Trust Security Vault Workshop
+# Zero Trust Security<br>With Vault Workshop
 .left[ <h3>Trust Nothing.<br>Authenticate & Authorize Everything.</h3>]
 
 ![:scale 15%](https://hashicorp.github.io/field-workshops-assets/assets/logos/logo_vault.png)
