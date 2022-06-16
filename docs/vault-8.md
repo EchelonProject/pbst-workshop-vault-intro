@@ -249,7 +249,7 @@ HashiCorp Learn Tutorials<br>
 https://learn.hashicorp.com/vault/
 
 Link to this Slide Deck<br>
-https://bit.ly/3B3qIyS
+https://bit.ly/3xutP1q
 
 ---
 name: upcoming-events

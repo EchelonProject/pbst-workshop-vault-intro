@@ -4,7 +4,7 @@ background-image: url(https://hashicorp.github.io/field-workshops-assets/assets/
 count: false
 
 # Zero Trust Security Vault Workshop
-.left[ Trust Nothing.<br>Authenticate & Authorize Everything.]
+.left[ <h3>Trust Nothing.<br>Authenticate & Authorize Everything.</h3>]
 
 ![:scale 15%](https://hashicorp.github.io/field-workshops-assets/assets/logos/logo_vault.png)
 
@@ -19,7 +19,7 @@ name: Link-to-Slide-Deck
 <br><br>
 ### Follow along on your own computer at this link:
 
-https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
+https://bit.ly/3xutP1q
 
 ???
 
