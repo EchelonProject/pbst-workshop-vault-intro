@@ -4,7 +4,7 @@ background-image: url(https://hashicorp.github.io/field-workshops-assets/assets/
 count: false
 
 # Zero Trust Security<br>With HashiCorp Vault
-Trust Nothing.<br>Authenticate & Authorize Everything.
+### Trust Nothing.<br>Authenticate & Authorize Everything.
 
 ![:scale 15%](https://hashicorp.github.io/field-workshops-assets/assets/logos/logo_vault.png)
 
